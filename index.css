@@ -625,15 +625,11 @@ background-color: rgba(5, 14, 48, 0.7);
     }
 /*-------eighth section--------*/
     .chance{
-        background-color: rgb(3, 3, 49);
-        width:100%;
+        background-color: rgb(3, 3, 49):
         display: flex;
         margin-top: 30px;
         flex-direction:row;
         align-items: center;
-        position: absolute;
-        left: 0;
-        right: 0;
         height: 200px;
     }
     .chance h1{
