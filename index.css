@@ -704,10 +704,14 @@ background-color: rgba(5, 14, 48, 0.7);
         padding-left: 100px;
         */
         display: flex;
+        margin-top:195px;
         flex-direction: row;
         justify-content: space-around;
         padding-top: 20px;
         color: white;
+        position: absolute;
+        left: 0;
+        right: 0;
         background-color:rgb(8, 8, 70);
         cursor: pointer;
         border-bottom: 1px solid rgb(185, 179, 179); 
